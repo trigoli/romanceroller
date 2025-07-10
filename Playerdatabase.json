@@ -1,0 +1,46 @@
+{
+  "player_characters": [
+   {
+     "id": 1,
+     "name": "La'raza",
+     "age": 16,
+     "race": "Thiefling",
+     "class": "Paladin",
+     "strenght": 16,
+     "Dexterity": 8,
+     "Constitution": 12,
+     "Intelligence": 10,
+     "Wisdom": 10,
+     "charisma": 18,
+     "hitdice": "1d10",
+     "Skills": {
+       "acrobatics":-1,
+       "athletics": 6,
+       "performance": 4,
+       "Deception": 4,
+       "Persuasion": 7
+     }
+   },
+    {
+      "id": 2,
+      "name": "Askeladd",
+      "age": 24,
+      "race": "Dragonborn",
+      "class": "Paladin",
+      "strenght": 20,
+      "Dexterity": 14,
+      "Constitution": 16,
+      "Intelligence": 8,
+      "Wisdom": 12,
+      "charisma": 16,
+      "hitdice": "1d10",
+      "Skills": {
+        "acrobatics": 2,
+        "athletics": 8,
+        "performance": 3,
+        "Deception": 3,
+        "Persuasion": 3
+      }
+    }
+  ]
+}
